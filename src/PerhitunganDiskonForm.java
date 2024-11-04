@@ -96,7 +96,7 @@ public class PerhitunganDiskonForm extends javax.swing.JFrame {
         jComboBox1.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "Pilih Diskon", "5", "10", "15", "20", "25", "30", " " }));
 
         jSlider1.setMajorTickSpacing(10);
-        jSlider1.setMaximum(50);
+        jSlider1.setMaximum(30);
         jSlider1.setMinorTickSpacing(5);
         jSlider1.setPaintLabels(true);
         jSlider1.setPaintTicks(true);
